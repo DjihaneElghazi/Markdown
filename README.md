@@ -4,7 +4,7 @@
 
 ### 🌐 About Me
 
-I am a 19-year-old **System Architect** focused on cross-disciplinary frameworks at the intersection of mathematical theory, nanophotonics, and biological signal processing.
+Born on 24/07/2007 **System Architect** focused on cross-disciplinary frameworks at the intersection of mathematical theory, nanophotonics, and biological signal processing.
 
 * 🏛️ **Historic Milestone:** Youngest Session Co-Convenor in the history of the **Scientific Committee on Antarctic Research (SCAR 2026, Univ. of Cambridge)** — Co-leading Session S38: *AI & Autonomous Platforms*.
 * 🔬 **Research Focus:** Topological Biosensing, Green AI Mathematical Bounds, and Signal Protocol Architectures.
