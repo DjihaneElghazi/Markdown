@@ -32,3 +32,12 @@ I am a 19-year-old **System Architect** focused on cross-disciplinary frameworks
 ---
 
 ### 🛠️ Core Disciplines & Mathematical Toolkit
+📌 Research Track Record & Milestones
+
+| Year | Milestone / Role | Institution / Platform |
+| :--- | :--- | :--- |
+| **2026** | Session Co-Convenor (Session S38: AI & Autonomous Platforms) | **SCAR 2026 Open Science Conference (Cambridge)** |
+| **2026** | Aspire Leaders Fellow | **Aspire Institute (Founded at Harvard)** |
+| **Active from 2024** | Member | **American Society for Microbiology (ASM)** |
+
+---
