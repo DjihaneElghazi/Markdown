@@ -1,6 +1,6 @@
 # Hi there, I'm Djihane Elghazi 👋
 
-### System Architect & Independent Deep-Tech Researcher
+### System Architect & Independent Deep-Tech Thinker
 *Bridging Biological systems, AI, Biophysical Systems, and Polar Research.*
 
 ---
